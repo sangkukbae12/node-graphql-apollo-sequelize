@@ -1,0 +1,20 @@
+{
+  "name": "node-graphql-apoll-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.25.2",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.5.1",
+    "sequelize": "^6.6.2",
+    "sequelize-cli": "^6.2.0",
+    "sqlite3": "^5.0.2"
+  }
+}
